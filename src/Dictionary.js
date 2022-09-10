@@ -27,7 +27,7 @@ return (
     <form onSubmit={search}>
 <input type="search" onChange={handleKeywordChange} />
     </form>
-    <Results />
+    <Results results={results} />
 </div>
 );
 }
