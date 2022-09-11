@@ -13,7 +13,10 @@ export default function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
-        <small>Coded by Laura Fenn</small>
+        <small>
+         This dictionary app was <a href="https://github.com/fdlenn/dictionary-project.git">coded</a> by Laura Fenn and is hosted on <a href="https://dulcet-cheesecake-0fb1a2.netlify.app/">Netlify</a>.
+          </small>
+        
       </footer>
     </div>
     </div>
