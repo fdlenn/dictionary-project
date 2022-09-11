@@ -14,7 +14,7 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small>
-         This dictionary app was <a href="https://github.com/fdlenn/dictionary-project.git" target="_blank" rel="noreferrer">coded</a> by Laura Fenn and is hosted on <a href="https://dulcet-cheesecake-0fb1a2.netlify.app/" target="_blank" rel="noreferrer">Netlify</a>.
+         This dictionary app was <a href="https://github.com/fdlenn/dictionary-project.git">coded</a> by Laura Fenn and is hosted on <a href="https://dulcet-cheesecake-0fb1a2.netlify.app/">Netlify</a>.
           </small>
         
       </footer>
